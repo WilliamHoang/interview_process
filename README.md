@@ -1,23 +1,17 @@
-#How to Prepare Before Your Interview 
+#Candidate Evaluation
 
->These are milestones to keep in mind when preparing for your interview
->Be sure to go over each to ensure success
+>These are points to keep in mind as your interviewers are likely thinking 
+>and / or evaluating you on these areas.
 
-###Review the fundamentals:
-  - [1] Algorithms
-  - [2] Data Structures
-
-###Practice on a whiteboard:  
-  - [1] Connect with a friend to practice 
-  - [2] Get used to thinking out loud and describing your approach
-
-###Practice writing code:
-  - [1] Focus on strongest language
-  - [2] Not just pseudo code but actual code
-
-###Recruiter communication:
-  - [1] Ask for any accommodations in advance
-  - [2] Ask any current or previous employees about their experiences
+###Interviewer Thoughts:
+  - [1] How did the candidate **analyze** the problem?
+  - [2] Did the candidate miss any special or **edge** cases?
+  - [3] Did the candidate approach the problem **methodically** and logically?
+  - [4] Does the candidate have a strong foundation in basic computer science **concepts**?
+  - [5] Did the candidate produce **working code**? Did the candidate **test** the code?
+  - [6] Is the candidate's code clean and easy to read and **maintain**?
+  - [7] Can the candidate **explain** her ideas clearly?
+  - [8] Is the candidate **pleasant** to work with?
 
 
 
