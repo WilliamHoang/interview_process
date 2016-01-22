@@ -1,20 +1,35 @@
-# Interview Format
+# Categories of Questions 
 
->Technical interviews are by phone, on-campus, or on-site, and last about 45 minutes each.
+>These are the category of questions that typically are asked during the interview
 
-###What you will talk about:
-  - [1] Short introduction
-  - [2] Technical assessment (working through questions on a whiteboard or Google doc)
-  - [3] Close with your questions
+###Coding:
+  - [1] Java/C++/Python
+  - [2] Recursion
+  - [3] Iterative
 
-###What you won't see:
-  - [1] Puzzle/brainteaser questions - they do not reflect your coding ability
+###Math:
+  - [1] Basic probability
+  - [2] Powers of 2
+  - [3] Div/mod   
 
-###The engineering skills that is being assessed:
-  - [1] Language syntax, core libraries, idioms, performance issues
-  - [2] Algorithms and data structures
-  - [3] Analytical skills   
-  - [4] Sound design
+###Operating Systems Concepts:
+  - [1] Threads and processes
+  - [2] Memory management
+  - [3] Filesystems and networking  
+
+###Algorithms:
+  - [1] Sorting
+  - [2] Searching
+  - [3] Graphs   
+  - [4] Big-O Analysis
+
+###Data Structures:
+  - [1] Lists
+  - [2] Stacks and Queues
+  - [3] Trees and Graphs  
+  - [4] Sets
+  - [5] Hashes and Maps
+  - [6] Heaps
 
 
 
