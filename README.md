@@ -8,7 +8,7 @@
 
 This repo consists of multiple branches that represent various topics in the Technical Interview Process:
 
-  - [1] [Interview Format]: Understand the timeframe and process
+  - [Interview Format]: Understand the timeframe and process
   - [2] [Category of Questions]: Areas to prepare
   - [3] [Algorithms]: Approaches  
   - [4] [Communication and Presentation]: Tips and reminder on how to interview  
