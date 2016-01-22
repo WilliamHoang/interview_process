@@ -1,18 +1,25 @@
-#Communications and Presentation 
+#How to Prepare Before Your Interview 
 
->Keep these points in mind when interviewing always
+>These are milestones to keep in mind when preparing for your interview
+>Be sure to go over each to ensure success
 
-###Verbalize your thoughts:
-  - [1] Think out loud and show your work
-  - [2] Draw pictures to help visualize your solution, especially for graphcs
-  - [3] If you prefer to think in silence, make sure you verbally summarize.
-  - [4] Ask for help if you are really stuck 
+###Review the fundamentals:
+  - [1] Algorithms
+  - [2] Data Structures
 
-###Listen to the Interviewers:
-  - [1] They are trying to help you and not out to get you
-  - [2] Treat sessions as a "discussion" and not an "interview"
-  - [3] Are they giving you meaningful hints? 
-  - [4] Understand the question and re-phrase if needed
+###Practice on a whiteboard:  
+  - [1] Connect with a friend to practice 
+  - [2] Get used to thinking out loud and describing your approach
+
+###Practice writing code:
+  - [1] Focus on strongest language
+  - [2] Not just pseudo code but actual code
+
+ ###Recruiter communication:
+  - [1] Ask for any accommodations in advance
+  - [2] Ask any current or previous employees about their experiences
+
+  
 
 
 
