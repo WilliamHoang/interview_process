@@ -1,17 +1,18 @@
-#Algorithms 
+#Communications and Presentation 
 
->These are the mind frame of the algorithm questions to have
+>Keep these points in mind when interviewing always
 
-###Problems:
-  - [1] How would you sort / search / represent / solve ... ?
-  - [2] What is the efficiency of this data structure / algorithm ?
+###Verbalize your thoughts:
+  - [1] Think out loud and show your work
+  - [2] Draw pictures to help visualize your solution, especially for graphcs
+  - [3] If you prefer to think in silence, make sure you verbally summarize.
+  - [4] Ask for help if you are really stuck 
 
-###Approaches:
-  - [1] Listen carefully to the problem
-  - [2] If a simple, "stupid", brute force solution immediately comes to mind, say it!
-  - [3] Ask questions and consider alternative approaches  
-  - [4] Recognize when two problems are similar
-  - [5] Recognize and understand when HINTS are provided
+###Listen to the Interviewers:
+  - [1] They are trying to help you and not out to get you
+  - [2] Treat sessions as a "discussion" and not an "interview"
+  - [3] Are they giving you meaningful hints? 
+  - [4] Understand the question and re-phrase if needed
 
 
 
