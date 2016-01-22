@@ -1,21 +1,20 @@
-# Technical Interview Process
+# Interview Format
 
->This repo is aimed at providing an overview of what an engineering technical interview
->process may be and illustrates the areas to focus on studying as well as the 
->how best to approach the technical discussion.
+>Technical interviews are by phone, on-campus, or on-site, and last about 45 minutes each.
 
-###Sections
+###What you will talk about:
+  - [1] Short introduction
+  - [2] Technical assessment (working through questions on a whiteboard or Google doc)
+  - [3] Close with your questions
 
-This repo consists of multiple branches that represent various topics in the Technical Interview Process:
+###What you won't see:
+  - [1] Puzzle/brainteaser questions - they do not reflect your coding ability
 
-  - [1] Interview Format: Understand the timeframe and process
-  - [2] Category of Questions: Areas to prepare
-  - [3] Algorithms: Approaches  
-  - [4] Communication and Presentation: Tips and reminder on how to interview  
-  - [5] Preparation: Check list
-  - [6] Candidate Evaluation: Grading Categories
-  - [7] Phone Interviews: Tips and reminder    
-  - [8] Common Mistakes: Interview Don'ts 
+###The engineering skills that is being assessed:
+  - [1] Language syntax, core libraries, idioms, performance issues
+  - [2] Algorithms and data structures
+  - [3] Analytical skills   
+  - [4] Sound design
 
 
 
