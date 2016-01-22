@@ -19,4 +19,12 @@ This repo consists of multiple branches that represent various topics in the Tec
 
 
 
+[Interview Format]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Format>
+[Category of Questions]: <https://github.com/WilliamHoang/interview_process/tree/Categories_of_Questions>
+[Algorithms]: <https://github.com/WilliamHoang/interview_process/tree/Algorithms>
+[Communication and Presentation]: <https://github.com/WilliamHoang/interview_process/tree/Communications_and_Presentation>
+[Preparation]: <https://github.com/WilliamHoang/interview_process/tree/Preparation>
+[Candidate Evaluation]: <https://github.com/WilliamHoang/interview_process/tree/Candidate_Evaluation>
+[Phone Interviews]: <https://github.com/WilliamHoang/interview_process/tree/Phone_Interviews>
+[Common Mistakes]: <https://github.com/WilliamHoang/interview_process/tree/Common_Mistakes>
 
