@@ -15,11 +15,11 @@
   - [1] Focus on strongest language
   - [2] Not just pseudo code but actual code
 
- ###Recruiter communication:
+###Recruiter communication:
   - [1] Ask for any accommodations in advance
   - [2] Ask any current or previous employees about their experiences
 
-  
+
 
 
 
