@@ -1,35 +1,17 @@
-# Categories of Questions 
+#Algorithms 
 
->These are the category of questions that typically are asked during the interview
+>These are the mind frame of the algorithm questions to have
 
-###Coding:
-  - [1] Java/C++/Python
-  - [2] Recursion
-  - [3] Iterative
+###Problems:
+  - [1] How would you sort / search / represent / solve ... ?
+  - [2] What is the efficiency of this data structure / algorithm ?
 
-###Math:
-  - [1] Basic probability
-  - [2] Powers of 2
-  - [3] Div/mod   
-
-###Operating Systems Concepts:
-  - [1] Threads and processes
-  - [2] Memory management
-  - [3] Filesystems and networking  
-
-###Algorithms:
-  - [1] Sorting
-  - [2] Searching
-  - [3] Graphs   
-  - [4] Big-O Analysis
-
-###Data Structures:
-  - [1] Lists
-  - [2] Stacks and Queues
-  - [3] Trees and Graphs  
-  - [4] Sets
-  - [5] Hashes and Maps
-  - [6] Heaps
+###Approaches:
+  - [1] Listen carefully to the problem
+  - [2] If a simple, "stupid", brute force solution immediately comes to mind, say it!
+  - [3] Ask questions and consider alternative approaches  
+  - [4] Recognize when two problems are similar
+  - [5] Recognize and understand when HINTS are provided
 
 
 
