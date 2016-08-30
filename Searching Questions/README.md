@@ -1,28 +1,15 @@
 # Searching Questions
 
->This repo is aimed at providing an overview of the type of technical interview questions engineering and developers may be asked.
->The folders will contain the various questions to prepare for both phone and on-site interviews.
+>This repo is aimed at providing an overview of the type of technical interview questions engineering and developers may be asked for both phone and on-site interviews.
 
-###Sections
+###Questions
 
-This repo consists of multiple branches that represent various topics in the Technical Interview Process:
+This repo consists of questions regarding on how to search for certain values or characters. 
 
-  - [Sorting Questions]: Algorithms related to sorting
-  - [Searching Questions]: Algorithms related to searching
-  - [Recursion Questions]: Approaches with iterative and recursion 
-  - [Stacks and Queues Questions]: Data Structures
-  - [Trees and Graphs]: Data Structures related to Tree Graphs
-  - [Hash Maps]: Mapping Keys to Values 
-  - [Lists & Sets]: Collection of data sets
-
-
-
-[Sorting Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Format>
-[Searching Questions]: <https://github.com/WilliamHoang/interview_process/tree/Categories_of_Questions>
-[Recursion Questions]: <https://github.com/WilliamHoang/interview_process/tree/Algorithms>
-[Stacks and Queues Questions]: <https://github.com/WilliamHoang/interview_process/tree/Communications_and_Presentation>
-[Trees and Graphs]: <https://github.com/WilliamHoang/interview_process/tree/Preparation>
-[Hash Maps]: <https://github.com/WilliamHoang/interview_process/tree/Candidate_Evaluation>
-[Lists & Sets]: <https://github.com/WilliamHoang/interview_process/tree/Phone_Interviews>
+  - [removeVowels](http://plnkr.co/edit/Ls8V9sKz5FQ0nU7s6LJE) Takes a string and removes all the vowels in it
+  - [frequency](http://plnkr.co/edit/m5ARBSdw2Af6JWtDKC84) Provide a string and it gives you the number of times each character shows up 
+  - [pangram](http://plnkr.co/edit/HEBbGd4ZiwFV7Uw8em8x) - Check if the passed in string contains all the letters of the alphabet 
+  - [max/min](http://plnkr.co/edit/Kad6GP1pqOQ3Dm0YB19q) Takes two numbers and returns the max/min.
+  - [max/min: part 2](http://plnkr.co/edit/5fbUbwgkbm0YkuIchU7e) Takes an array and returns the min/max 
 
 
