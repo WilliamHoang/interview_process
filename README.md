@@ -16,6 +16,7 @@ This repo consists of multiple branches that represent various topics in the Tec
   - [Candidate Evaluation]: Grading Categories
   - [Phone Interviews]: Tips and reminder    
   - [Common Mistakes]: Interview Don'ts 
+  - [Interview Questions]: Various type of interview questions
 
 
 
@@ -27,4 +28,4 @@ This repo consists of multiple branches that represent various topics in the Tec
 [Candidate Evaluation]: <https://github.com/WilliamHoang/interview_process/tree/Candidate_Evaluation>
 [Phone Interviews]: <https://github.com/WilliamHoang/interview_process/tree/Phone_Interviews>
 [Common Mistakes]: <https://github.com/WilliamHoang/interview_process/tree/Common_Mistakes>
-
+[Interview Questions]:<https://github.com/WilliamHoang/interview_process/tree/Interview_Questions>
