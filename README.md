@@ -5,7 +5,7 @@
 
 ###Sections
 
-This repo consists of multiple branches that represent various topics in the Technical Interview Process:
+This repo consists of multiple directories that represent various topics in the Technical Interview Process:
 
   - [Sorting Questions]: Algorithms related to sorting
   - [Searching Questions]: Algorithms related to searching
@@ -17,12 +17,12 @@ This repo consists of multiple branches that represent various topics in the Tec
 
 
 
-[Sorting Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Format>
-[Searching Questions]: <https://github.com/WilliamHoang/interview_process/tree/Categories_of_Questions>
-[Recursion Questions]: <https://github.com/WilliamHoang/interview_process/tree/Algorithms>
-[Stacks and Queues Questions]: <https://github.com/WilliamHoang/interview_process/tree/Communications_and_Presentation>
-[Trees and Graphs]: <https://github.com/WilliamHoang/interview_process/tree/Preparation>
-[Hash Maps]: <https://github.com/WilliamHoang/interview_process/tree/Candidate_Evaluation>
-[Lists & Sets]: <https://github.com/WilliamHoang/interview_process/tree/Phone_Interviews>
+[Sorting Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Sorting%20Questions>
+[Searching Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Searching%20Questions>
+[Recursion Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Recursion%20Questions>
+[Stacks and Queues Questions]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Stacks%20and%20Queues%20Questions>
+[Trees and Graphs]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Trees%20and%20Graphs>
+[Hash Maps]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Hash%20Maps>
+[Lists & Sets]: <https://github.com/WilliamHoang/interview_process/tree/Interview_Questions/Lists%20%26%20Sets>
 
 
