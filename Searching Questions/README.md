@@ -12,4 +12,8 @@ This repo consists of questions regarding on how to search for certain values or
   - [max/min](http://plnkr.co/edit/Kad6GP1pqOQ3Dm0YB19q) Takes two numbers and returns the max/min.
   - [max/min: part 2](http://plnkr.co/edit/5fbUbwgkbm0YkuIchU7e) Takes an array and returns the min/max 
 
+  - [1] Given a String, remove duplicate characters in that String.  And print out the unique Characters.  
+  - [2] Given an array of numbers, determine if an input number is able to be made up of the sum of two digits from within the array 
+  - [3] Write a function, to determine if an input String is a palindrome or not
+
 
